@@ -57,6 +57,25 @@ loops back and waits for you to enter another command.
 
 ### The Shell
 
+If you are familiar with the shell, go to this advanced course:
+
+[ReproNim shell](http://www.repronim.org/module-reproducible-basics/01-shell-basics/)
+
+The Unix Shell
+http://swcarpentry.github.io/shell-novice/
+
+Data Science at the Command Line
+https://www.datascienceatthecommandline.com/
+
+The Unix Shell: Pipes and Filters
+http://swcarpentry.github.io/shell-novice/04-pipefilter/index.html
+
+neurodatascience/shell-novice: Software Carpentry introduction to the shell for novices.
+https://github.com/neurodatascience/shell-novice
+
+How To Read and Set Environmental and Shell Variables on a Linux VPS | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps
+
 
 The Shell is a program which runs other programs rather than doing calculations itself.
 Those programs can be as complicated as climate modeling software and as simple as a
